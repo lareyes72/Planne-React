@@ -1,0 +1,17 @@
+.app-header-container{
+    width: 100%;
+    background-color: aliceblue;
+}
+
+.fullNameProfile{
+    display: flex;
+    align-items: center;
+}
+
+.profile{
+    padding: 0px 3px;
+    margin-left: 5px;
+    background-color: orange;
+    border: 1px solid black;
+    border-radius: 8px;
+}
